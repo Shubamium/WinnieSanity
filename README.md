@@ -1,3 +1,6 @@
 # WinnieBlue Sanity Studio
 Sanity Studio Schema Data For WinnieBlue website
-https://winniebluemanagement
+
+# Links
+https://winniebluemanagement.sanity.studio
+https://winniebluemanagment.org
